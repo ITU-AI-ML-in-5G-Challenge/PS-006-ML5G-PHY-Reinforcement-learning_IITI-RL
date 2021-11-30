@@ -2,6 +2,8 @@
 
 >This repository is copy of challenge's main [repo](https://github.com/lasseufpa/ITU-Challenge-ML5G-PHY-RL) and the code is modified by following the challenge's rules and guidelines. 
 
+>Team Members: Sundesh Gupta, Mohit Mehta, Bhagyashree Gour, Arijit Datta
+
 # Submission
 
 Presentation and Videos (for best return and worst return respectively) are available at following [link](https://drive.google.com/drive/u/0/folders/1bo3ceT3fknYZM8-kKN6Ud5NIPy9K3_dY). 
